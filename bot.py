@@ -11,7 +11,7 @@ async def on_ready():
     print('Online')
 
 
-@bot.command(name="senf")
+@bot.command(name="send")
 async def send(ctx,*,msg):
 	await ctx.message.delete()
 	author=ctx.message.author
