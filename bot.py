@@ -19,7 +19,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with YAHOO TRIVIA...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with ÃmìT RØY®#8848"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ GOOGLE BOT...!"))
@@ -37,10 +37,10 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with MAIL+BOT...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  AMIT ROY...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  𒀛│ϻ☈»॥乛.ᎻᎯᏨᏦᎬᏒᴼᴾ#9090"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=2,name="with PARKASH..."))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="with *^^{{SÁVÅÑ}}^^#5719"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'''{len(bot.guilds)} servers'''))
@@ -463,4 +463,4 @@ async def suggest(ctx):
 	# 	await ctx.send("**Lol You Not Have Permission To use this commands**:wink: "+ctx.author.mention)
 		
 
-bot.run("NDk0NDY0NDM3MzE1NTY3NjM2.XzSQug.rM8yNCgsX7ivIh42NXzxdNtEXtY") # Where 'TOKEN' is 
+bot.run("NDc1NjU4MTY2ODUyNjQ4OTcw.X2YpGA.AtA0X_MHObLYm75WO7gg5G_JucU") # Where 'TOKEN' is 
